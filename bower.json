@@ -1,0 +1,21 @@
+{
+  "name": "today",
+  "description": "This is a to-do performance and efficiency oriented ap",
+  "main": "todaySever.js",
+  "authors": [
+    "iDn"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "today"
+  ],
+  "homepage": "https://github.com/dnbehera/today",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

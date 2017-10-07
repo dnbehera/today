@@ -1,0 +1,22 @@
+{
+  "name": "today",
+  "version": "1.0.0",
+  "description": "This is a to-do performance and efficiency oriented ap",
+  "main": "todaySever.js",
+  "scripts": {
+    "test": "test today"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnbehera/today.git"
+  },
+  "keywords": [
+    "today"
+  ],
+  "author": "iDn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnbehera/today/issues"
+  },
+  "homepage": "https://github.com/dnbehera/today#readme"
+}
